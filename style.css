@@ -1,0 +1,45 @@
+
+
+.titulo {
+    color: #c0c0c0;
+    text-align: center;
+    font-size: 10rem;
+    background-color: black;
+
+} 
+h2{
+    color: white;
+
+}
+
+p{
+    color: white;
+
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+.centered {
+    position: absolute;
+    top: 63%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: #F1C40F;
+  }
+
+
+.container {
+    position: relative;
+    white-space: nowrap;
+    color: white;
+  }
+body{
+    background-color: black;
+}
+
+html{
+    background-color: black;
+}
